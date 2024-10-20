@@ -1,8 +1,8 @@
 """
 Plotting Open Stocks, using Yahoo Finance Historical Data
 Author: Jeffrey Yau
-Date Created: 10/19/2024
-Last modification: 10/20/2024
+Date Created: 10/18/2024
+Last modification: 10/19/2024
 """
 
 import plotter
