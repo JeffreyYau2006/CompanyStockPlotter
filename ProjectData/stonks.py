@@ -133,5 +133,5 @@ def main():
     #plot_stock("./data.csv", "Nvidia")
     #length("./data.csv", "Nvidia")
 
-if __name__ == "__main__": # run guard
+if __name__ == "__main__": # run guard for pytest, I don't have any rn but it's just became instinct to put it here
     main()
