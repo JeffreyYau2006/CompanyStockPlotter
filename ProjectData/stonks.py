@@ -60,7 +60,7 @@ def plot_multiple_stocks(fileName, companyNames): # this is the main plotting fu
 
         plotter.plot()  # Plot all the series at once
 
-def plot_stock(fileName, companyName): # NO LONGER IN USE, SINGLE STOCK
+def plot_stock(fileName, companyName): # NO LONGER IN USE, SINGLE COMPANY STOCKS
     with open(fileName) as inputFile:
         csvReader = csv.reader(inputFile) 
         next(csvReader) # skips header
