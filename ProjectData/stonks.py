@@ -113,9 +113,9 @@ def help():
 def main():
     # Tests
     '''
-    openStocks ./data.csv NVDA
-    openStocks ./data.csv AMD
-    openStocks ./data.csv LMT 
+    openStocks ./october2024data.csv NVDA
+    openStocks ./october2024data.csv AMD
+    openStocks ./october2024data.csv LMT 
     '''
     boolean = False # boolean condition
     while True:
